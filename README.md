@@ -1,2 +1,2 @@
-# python
-web development in software
+# py
+web development in doctor
