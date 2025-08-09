@@ -1,2 +1,1 @@
-# py
-web development in doctor
+<dicto>
